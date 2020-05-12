@@ -2,15 +2,16 @@
 ### This is a Curriculum for learning frontend web development from scratch in 100 days.
 
 #### Start Date
-May 13, 2020
+May 14, 2020
 
 At the end of this 100 Days challenge, I would like to build a rich portfolio of frontend web development Skills and projects.
 
 ## The schedule for the 100 days (3 months)
 
-Day        | Topic      | Lesson |Resources| 
-------------- | ------------- | --------------- | --------- |
-Day 1  | Internet | How does the Internet work ?   | [Medium article](https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8) [youtube video](https://www.youtube.com/watch?v=7_LPdttKXPc)
+Day        | Topic      | Learning Concepts |
+------------- | ------------- | --------------- | 
+Day 1 | Internet | How does the Internet work ? </br> What is HTTP? | 
+Day 2 |  | DNS and how it works? </br> Browsers and how they work? | 
 
 
 ## Contents
