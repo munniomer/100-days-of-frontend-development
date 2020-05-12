@@ -12,7 +12,7 @@ Day        | Topic      | Learning Concepts |
 ------------- | ------------- | --------------- | 
 Day 1 | Internet | How does the Internet work ? </br> What is HTTP? | 
 Day 2 |  | DNS and how it works? </br> Browsers and how they work? | 
-
+Day 3 | HTML | DNS and how it works? </br> Browsers and how they work? | 
 
 ## Contents
 
