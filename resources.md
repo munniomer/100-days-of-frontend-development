@@ -3,12 +3,13 @@
 * Articles
   * [How does the internet work?](https://roadmap.sh/guides/what-is-internet)
   * [How Does The Internet Work? - MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-  * [What is the difference between webpage, website, web server, and search engine? - MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines)
-  
   </br>
+  
   * [An overview of HTTP - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
   * [How the Web works - MDN DOcs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+  * [What is the difference between webpage, website, web server, and search engine? - MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines)
   </br>
+  
   * [What is a domain name?- MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
   * [How much does it cost to do something on the Web? - MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_much_does_it_cost)
 
@@ -20,6 +21,7 @@
   
   * [What is HTTP and Why Web Is Built On It? - Youtube video](https://www.youtube.com/watch?v=4_-KdOLZWLs)
   * [O HyperText Transfer Protocol (HTTP)](https://www.youtube.com/watch?v=QghbZkks3Dw)
+  </br>
   
   * [How a DNS Server (Domain Name System) works - Youtube video](https://www.youtube.com/watch?v=mpQZVYPuDGU)
   * [DNS as Fast As Possible - youtube video](https://www.youtube.com/watch?v=Rck3BALhI5c)
