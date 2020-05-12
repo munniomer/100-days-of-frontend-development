@@ -15,6 +15,10 @@
   
   * [How much does it cost to do something on the Web? - MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_much_does_it_cost)
   * [DNS in One Picture](https://roadmap.sh/guides/dns-in-one-picture)
+  </br>
+  
+  * [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) *Day 2*
+  
 
   
 * Videos 
@@ -31,6 +35,9 @@
   * [How a DNS Server (Domain Name System) works - Youtube video](https://www.youtube.com/watch?v=mpQZVYPuDGU) *Day 2*
   
   * [DNS as Fast As Possible - youtube video](https://www.youtube.com/watch?v=Rck3BALhI5c)
+  </br>
+  
+  * [How a web browser builds and displays a web page](https://www.youtube.com/watch?v=DuSURHrZG6I) *Day 2*
 
 
 
