@@ -1,8 +1,10 @@
 # The Resources for Mastering frontend development
 ## Internet
 * Articles
-  * [How does the internet work?](https://roadmap.sh/guides/what-is-internet)
-  * [How Does The Internet Work? - MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+  * [How does the internet work?](https://roadmap.sh/guides/what-is-internet)  *Day 1*
+  
+  * [How Does The Internet Work? - MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work) *Day 1*
+  
   </br>
   
   * [An overview of HTTP - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
