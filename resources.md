@@ -3,10 +3,12 @@
 * Articles
   * [How does the internet work?](https://roadmap.sh/guides/what-is-internet)
   * [How Does The Internet Work? - MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-  * [How Does The Internet Work? - Medium article](https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8)
   * [What is the difference between webpage, website, web server, and search engine? - MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines)
+  
+  </br>
   * [An overview of HTTP - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
   * [How the Web works - MDN DOcs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+  </br>
   * [What is a domain name?- MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
   * [How much does it cost to do something on the Web? - MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_much_does_it_cost)
 
