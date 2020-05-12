@@ -1,4 +1,4 @@
-# The Resources am using for Mastering frontend web development
+# The Resources for Mastering frontend development
 ## Internet
 * Articles
   * [How does the internet work?](https://roadmap.sh/guides/what-is-internet)
@@ -12,6 +12,7 @@
   
   * [What is a domain name?- MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
   * [How much does it cost to do something on the Web? - MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_much_does_it_cost)
+  * [DNS in One Picture](https://roadmap.sh/guides/dns-in-one-picture)
 
   
 * Videos 
