@@ -16,7 +16,7 @@ Day 3 | HTML | *Book:  HTML & CSS design and build website:* </br> Chapter 1: St
 Day 4 | | </br> Chapter 3: Lists </br> Chapter 4: Links  </br> *W3schools:* HTML Forms & Media | 
 Day 5 | | </br> Chapter 5: Images </br> Chapter 6: Tables   </br> *W3schools:* HTML Examples | 
 Day 6 | | </br> Chapter 7: Forms  </br> Chapter 8: Extra Markup   </br> Chapter 9: Flash, Video & Audio | 
-Day 7 | | </br> freecodecamp - Basic HTML & HTML5 | 
+Day 7 | | </br> *freecodecamp* : </br> Basic HTML & HTML5 | 
 ## Contents
 
 * [Rules](rules.md)
