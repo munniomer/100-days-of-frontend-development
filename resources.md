@@ -41,10 +41,10 @@
 
 ## HTML
 * Book
-  * [HTML & CSS design and build website by Jon Duckett](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189) *Day 3 to Day 5* 
+  * [HTML & CSS design and build website by Jon Duckett](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189) *(Chapter 1 - 9)* *Day 3 - 9* 
 * Learning sites
-  * [W3schools - HTML Tutorials](https://www.w3schools.com/html/default.asp) *Day 3 to Day 5* 
-  * [freecodecamp - Basic HTML & HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/) *Day 5 to Day 6* 
+  * [W3schools - HTML Tutorials](https://www.w3schools.com/html/default.asp) *Day 3 - 5* 
+  * [freecodecamp - Basic HTML & HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/) *Day 7* 
 * Online courses
   * [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) by Jonas Schmedtmann *(77 lectures / 12hrs) *Day 7 to Day 8* 
   * [Modern HTML & CSS From The Beginning (Including Sass)](https://www.udemy.com/course/modern-html-css-from-the-beginning/) by Brad Traversy *(128 lectures / 21hrs)* *Day 9 to Day 11* 
