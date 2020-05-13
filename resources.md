@@ -46,9 +46,9 @@
   * [W3schools - HTML Tutorials](https://www.w3schools.com/html/default.asp) *Day 3 - 5* 
   * [freecodecamp - Basic HTML & HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/) *Day 7* 
 * Online courses
-  * [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) *Day 7 to Day 9* 
-  * [Modern HTML & CSS From The Beginning (Including Sass)](https://www.udemy.com/course/modern-html-css-from-the-beginning/) *Day 10 to Day 12* 
-  * [Web Design for Beginners: Real World Coding in HTML & CSS](https://www.udemy.com/course/web-design-for-beginners-real-world-coding-in-html-css/) *Day 13 to Day 15*
+  * [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) *Day 7 - 9* 
+  * [Modern HTML & CSS From The Beginning (Including Sass)](https://www.udemy.com/course/modern-html-css-from-the-beginning/) *Day 10 - 12* 
+  * [Web Design for Beginners: Real World Coding in HTML & CSS](https://www.udemy.com/course/web-design-for-beginners-real-world-coding-in-html-css/) *Day 13 - 15*
 
 
 
