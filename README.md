@@ -17,6 +17,13 @@ Day 4 | | </br> Chapter 3: Lists </br> Chapter 4: Links  </br> *W3schools:* HTML
 Day 5 | | </br> Chapter 5: Images </br> Chapter 6: Tables   </br> *W3schools:* HTML Examples | 
 Day 6 | | </br> Chapter 7: Forms  </br> Chapter 8: Extra Markup   </br> Chapter 9: Flash, Video & Audio | 
 Day 7 | | </br> *freecodecamp* : </br> Basic HTML & HTML5 | 
+Day 8 | CSS | *Book:  HTML & CSS design and build website:* </br> Chapter 10: Introducing CSS </br> Chapter 11: Color | 
+Day 9 | | </br> Chapter 12: Text </br> Chapter 13: Boxes  | 
+Day 10 | | </br> Chapter 14: Lists, Tables & Forms  </br> Chapter 15: Layout | 
+Day 11 | | *W3schools:* CSS Tutorial| 
+Day 12 | | Chapter 16: Images  </br> Chapter 17: HTML5 Layout | 
+Day 13 | | *W3schools:* CSS Advanced  | 
+Day 14 | | </br> Chapter 18: Process & Design  </br> Chapter 19: Practical Information | 
 ## Contents
 
 * [Rules](rules.md)
