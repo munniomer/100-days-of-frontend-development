@@ -23,7 +23,9 @@ Day 10 | | </br> Chapter 14: Lists, Tables & Forms  </br> Chapter 15: Layout |
 Day 11 | | *W3schools:* CSS Tutorial| 
 Day 12 | | Chapter 16: Images  </br> Chapter 17: HTML5 Layout | 
 Day 13 | | *W3schools:* CSS Advanced  | 
-Day 14 | | </br> Chapter 18: Process & Design  </br> Chapter 19: Practical Information | 
+Day 14 | | </br> Chapter 18: Process & Design  </br> Chapter 19: Practical Information |
+Day 15 | | </br> *W3schools:* </br> CSS Responsive </br> CSS Grid </br> CSS Examples  | 
+
 ## Contents
 
 * [Rules](rules.md)
